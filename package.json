@@ -1,0 +1,33 @@
+{
+  "name": "tools-crypto-server",
+  "version": "1.0.0",
+  "description": "crypto server",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "my-crypto-node": "^1.0.1",
+    "abv-spa": "0.0.6",
+    "abv-store": "0.0.2",
+    "abv-ts": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeCamila/tools-crypto-server.git"
+  },
+  "keywords": [
+    "node",
+    "abvos",
+    "websocket",
+    "abv"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YeCamila/tools-crypto-server/issues"
+  },
+  "homepage": "https://github.com/YeCamila/tools-crypto-server#readme",
+  "env": {
+    "PORT": "80"
+  }
+}
